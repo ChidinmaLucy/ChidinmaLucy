@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChidinmaLucy
-- 👀 I’m interested in Data science, Data Analytics, Artificial intelligence and programming 
+- 👀 I’m interested in frontend Web development with HTML,CSS and Javascript. 
 - 🌱 I’m currently learning HTML, CSS, Javascript 
 - 💞️ I’m looking to collaborate on any projects that would build my skills more.
 - 📫 How to reach me on chidinmalucyuka@gmail.com 
